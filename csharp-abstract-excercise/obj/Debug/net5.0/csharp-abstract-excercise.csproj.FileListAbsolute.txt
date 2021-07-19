@@ -1,0 +1,16 @@
+F:\Desktop\dotNET\C#\7.18\csharp-abstract-excercise\csharp-abstract-excercise\bin\Debug\net5.0\csharp-abstract-excercise.exe
+F:\Desktop\dotNET\C#\7.18\csharp-abstract-excercise\csharp-abstract-excercise\bin\Debug\net5.0\csharp-abstract-excercise.deps.json
+F:\Desktop\dotNET\C#\7.18\csharp-abstract-excercise\csharp-abstract-excercise\bin\Debug\net5.0\csharp-abstract-excercise.runtimeconfig.json
+F:\Desktop\dotNET\C#\7.18\csharp-abstract-excercise\csharp-abstract-excercise\bin\Debug\net5.0\csharp-abstract-excercise.runtimeconfig.dev.json
+F:\Desktop\dotNET\C#\7.18\csharp-abstract-excercise\csharp-abstract-excercise\bin\Debug\net5.0\csharp-abstract-excercise.dll
+F:\Desktop\dotNET\C#\7.18\csharp-abstract-excercise\csharp-abstract-excercise\bin\Debug\net5.0\ref\csharp-abstract-excercise.dll
+F:\Desktop\dotNET\C#\7.18\csharp-abstract-excercise\csharp-abstract-excercise\bin\Debug\net5.0\csharp-abstract-excercise.pdb
+F:\Desktop\dotNET\C#\7.18\csharp-abstract-excercise\csharp-abstract-excercise\obj\Debug\net5.0\csharp-abstract-excercise.csproj.AssemblyReference.cache
+F:\Desktop\dotNET\C#\7.18\csharp-abstract-excercise\csharp-abstract-excercise\obj\Debug\net5.0\csharp-abstract-excercise.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\dotNET\C#\7.18\csharp-abstract-excercise\csharp-abstract-excercise\obj\Debug\net5.0\csharp-abstract-excercise.AssemblyInfoInputs.cache
+F:\Desktop\dotNET\C#\7.18\csharp-abstract-excercise\csharp-abstract-excercise\obj\Debug\net5.0\csharp-abstract-excercise.AssemblyInfo.cs
+F:\Desktop\dotNET\C#\7.18\csharp-abstract-excercise\csharp-abstract-excercise\obj\Debug\net5.0\csharp-abstract-excercise.csproj.CoreCompileInputs.cache
+F:\Desktop\dotNET\C#\7.18\csharp-abstract-excercise\csharp-abstract-excercise\obj\Debug\net5.0\csharp-abstract-excercise.dll
+F:\Desktop\dotNET\C#\7.18\csharp-abstract-excercise\csharp-abstract-excercise\obj\Debug\net5.0\ref\csharp-abstract-excercise.dll
+F:\Desktop\dotNET\C#\7.18\csharp-abstract-excercise\csharp-abstract-excercise\obj\Debug\net5.0\csharp-abstract-excercise.pdb
+F:\Desktop\dotNET\C#\7.18\csharp-abstract-excercise\csharp-abstract-excercise\obj\Debug\net5.0\csharp-abstract-excercise.genruntimeconfig.cache
